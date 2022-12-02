@@ -79,15 +79,17 @@ A suggested implementation of the assignment is in the branch called `randomness
 
 ### Viewing NFTs on Opensea
 
-Once deployed to one of the testnets mentioned above, your NFT should be viewable on [Opensea testnets](https://testnets.opensea.io/).
+Once deployed to one of the testnets mentioned above, your NFT should be viewable on [Opensea testnets](https://testnets.opensea.io/SrZygon)
 **Note:** if the dynamic NFT is taking time to change on OpenSea that's not unusual. In that even just call your contracts `tokenUri()` method and check what IPFS URI is being pointed to. If it changes, then your code is working but OpenSea's cache may not show the new image for a while, even if you do a [force-update on Open Sea](https://docs.opensea.io/docs/3-viewing-your-items-on-opensea). However, you should see the name of the NFT update even if the image is lagging.
 
 ### Thank you!
 
-Thank you for being curious and hungry to participate in the new Web3 movement! If you have any questions, reach out on [Twitter](https://twitter.com/zubinpratap) or tag me on [LinkedIn](https://linkedin.com/in/zubinpratap).
+Thank you for being curious and hungry to participate in the new Web3 movement! If you have any questions, reach out on [Twitter](https://twitter.com/Coach_Bullets) or tag me on [LinkedIn](https://www.linkedin.com/in/gonzalo-daniel-aguilar/).
 
-#### [Updated 14 June 2022]
+#### [Updated 12 Diciember 2022]
 
 Added basic testing on the `main` branch to test deployment of the `Bull&Bear.sol` NFT contract. Tests use `mocha, chai, , ethers and waffle`. Please do `yarn install` using the updated `package.json` to pull down the developer dependencies needed to run the tests.
 
 To run tests, from the project root, please run `yarn hardhat test`.
+
+--------------------------------------------------------------------------------------------
