@@ -93,3 +93,7 @@ Added basic testing on the `main` branch to test deployment of the `Bull&Bear.so
 To run tests, from the project root, please run `yarn hardhat test`.
 
 --------------------------------------------------------------------------------------------
+
+# NFT 
+![Built Smart Contracts using Chainlink](https://user-images.githubusercontent.com/42863568/236948161-283fbb69-8beb-4afa-aec1-e04f4cf542b3.jpeg)
+
